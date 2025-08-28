@@ -1,0 +1,21 @@
+pdb,Hchain,Lchain,model,antigen_chain,antigen_type,antigen_het_name,antigen_name
+9fys,B,C,0,X,protein,,alpha-bungarotoxin
+9fys,I,M,0,Z,protein,,alpha-bungarotoxin
+9fyt,I,M,0,B,protein,,alpha-cobratoxin
+9fyt,C,D,0,A,protein,,alpha-cobratoxin
+9uxd,D,E,0,A,protein,,spike glycoprotein
+9uxd,H,L,0,B,protein,,spike glycoprotein
+9uxd,J,K,0,C,protein,,spike glycoprotein
+9uxe,D,E,0,A,protein,,spike glycoprotein
+9uxe,H,L,0,B,protein,,spike glycoprotein
+9uxe,J,K,0,C,protein,,spike glycoprotein
+9mpw,H,L,0,S,protein,,spike protein s2
+9nrc,H,L,0,A,protein,,transmembrane protease serine 6
+9nrc,C,B,0,A,protein,,transmembrane protease serine 6
+9rm2,H,L,0,P,protein,,major capsid protein vp1
+9rm2,A,B,0,C,protein,,major capsid protein vp1
+9rm2,D,E,0,F,protein,,major capsid protein vp1
+9rm2,G,J,0,K,protein,,major capsid protein vp1
+9rm2,M,N,0,O,protein,,major capsid protein vp1
+8yvk,E,F,0,A,protein,,neuraminidase
+8yvk,G,H,0,B,protein,,neuraminidase
